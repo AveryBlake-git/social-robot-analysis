@@ -15,7 +15,7 @@ if __name__ == '__main__':
     # 百度AI的配置
     APP_ID = '66035647'
     API_KEY = 'Ip7xRsBwtsT5qvfS6ZaDCoNu'
-    SECRET_KEY = '7SU86bik9cxPWuGcIEUQxMeN07Yr7Dqb'
+    SECRET_KEY = '' # 输入你的密钥
     client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
     # 读取文件
